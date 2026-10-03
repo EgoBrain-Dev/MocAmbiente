@@ -1,0 +1,180 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+:root {
+    --fundo-principal: #ffffff;
+    --azul-principal: #0B3D91;
+    --azil-claro: #06B6F0;
+    --azul-secundario: #0284c7;
+    --verde-principal: #16A34A;
+    --verde-claro: #84CC16;
+    --cinza-escuro: #1F2937;
+    --cinza-claro: #E5E7EB;
+}
+
+body {
+    background-color: var(--fundo-principal);
+}
+
+main {
+    margin: 0px 60px;
+}
+
+#nav-bar {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    width: 100%;
+    background: transparent;
+    color: var(--fundo-principal);
+    margin-bottom: 25px;
+    padding: 10px;
+    padding-right: 30px;
+
+}
+
+.logo {
+    margin-right: 100px;
+}
+
+
+.nav-bar {
+    display: flex;
+    gap: 30px;
+    margin-right: 40px;
+}
+
+.buscar {
+    margin-right: 50px;
+}
+
+.buscar button {
+    border-radius: 50px;
+    border: none;
+    padding: 4px 6px;
+}
+
+.buscar input {
+    padding: 3px 6px;
+    border-radius: 12px;
+    background-color: var(--azul-secundario);
+    color: var(--cinza-claro);
+    margin-right: 10px;
+}
+
+.buscar>placeholder {
+    color: var(--cinza-claro);
+}
+
+
+
+.login {
+    margin-left: 25px;
+}
+
+.login button {
+    border-radius: 50px;
+    border: none;
+    padding: 4px 20px;
+    background-color: var(--cinza-claro);
+}
+
+.nav-bar a {
+    justify-content: center;
+    text-decoration: none;
+    font-weight: normal;
+    color: var(--cinza-claro);
+}
+
+
+#hero-header {
+    background-image: url(/img/hero/praia-com-lancha.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 450px;
+    min-width: 100%;
+}
+
+#hero-content {
+    margin-left: 30px;
+    color: var(--cinza-claro);
+    width: 500px;
+
+}
+
+.hero-texto>span {
+    color: var(--verde-principal);
+    font-size: 4em;
+    font-weight: bold;
+}
+
+.hero-texto>p {
+    margin-top: 15px;
+    color: black;
+}
+
+.cta {
+    display: flex;
+    margin-top: 20px;
+    gap: 20px;
+    width: 700px;
+}
+
+.cta button {
+    padding: 15px 30px;
+    border-radius: 50px;
+    border: none;
+}
+
+.btn1 {
+    background-color: var(--verde-principal);
+    font-size: 1em;
+
+}
+
+.btn2 {
+    background-color: var(--azul-principal);
+    color: var(--cinza-claro);
+    font-size: 1em;
+
+}
+
+.btn3 {
+    background-color: var(--azil-claro);
+    font-size: 1em;
+}
+
+.destaque-alerta {
+    display: flex;
+    border: 3px solid var(--cinza-claro);
+    border-radius: 12px;
+    margin: 10px 0px 30px 0px;
+    background-color: var(--cinza-claro);
+}
+
+.card {
+    border-right: 3px solid silver;
+    width: 50%;
+    margin: 2px 0px;
+    height: 70px;
+    padding: 5px;
+}
+
+.card-destaque {
+    width: 50%;
+    padding: 5px;
+    margin-top: 10px;
+    align-items: center;
+}
+
+#destaque-conteudo {
+    display: flex;
+    gap: 20px;
+    height: 350px;
+    margin-bottom: 450px;
+
+}
