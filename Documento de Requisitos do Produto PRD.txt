@@ -1,0 +1,860 @@
+MOÇAMBIENTE
+
+Plataforma Digital de Ambiente, Turismo, Segurança e Participação Comunitária
+
+DOCUMENTO DE CONCEÇÃO E ESPECIFICAÇÃO FUNCIONAL
+
+
+1. INTRODUÇÃO
+
+A MoçAmbiente será uma plataforma digital dedicada à promoção da proteção ambiental, do turismo responsável, da segurança dos visitantes e da participação comunitária em Moçambique.
+
+A plataforma pretende aproximar cidadãos, comunidades, turistas, organizações não governamentais, empresas, instituições públicas, operadores turísticos e outros intervenientes através de um espaço digital onde seja possível identificar problemas ambientais, participar em iniciativas de conservação, consultar informações turísticas, acompanhar alertas de segurança, comunicar objetos perdidos ou encontrados e apoiar projetos de impacto ambiental e social.
+
+Mais do que um website informativo, a MoçAmbiente deverá funcionar como uma plataforma de participação e mobilização, permitindo que os utilizadores não apenas consumam informação, mas também contribuam diretamente para a identificação de problemas, realização de atividades e construção de soluções.
+
+O projeto terá como ponto de partida Moçambique, com possibilidade de expansão futura para outras regiões e países.
+
+
+2. VISÃO
+
+Criar uma plataforma digital de referência em Moçambique para conectar pessoas, comunidades e organizações na proteção do ambiente, valorização do turismo, promoção da segurança e desenvolvimento de iniciativas sustentáveis.
+
+
+3. MISSÃO
+
+Facilitar a participação da sociedade na proteção ambiental e na valorização dos recursos naturais e turísticos de Moçambique, utilizando tecnologia para disponibilizar informação, promover ações comunitárias, apoiar iniciativas ambientais e melhorar a comunicação entre cidadãos, organizações e outros intervenientes.
+
+
+4. OBJETIVOS
+
+A plataforma terá como principais objetivos:
+
+1. Promover a proteção e conservação do ambiente.
+2. Incentivar campanhas de limpeza de praias, ruas e outros espaços públicos.
+3. Facilitar a comunicação de problemas ambientais.
+4. Promover o voluntariado e o ativismo ambiental.
+5. Divulgar destinos turísticos de Moçambique.
+6. Incentivar práticas de turismo responsável.
+7. Disponibilizar informações e alertas relacionados com segurança turística.
+8. Criar um sistema de achados e perdidos para praias, parques, reservas e locais turísticos.
+9. Divulgar notícias relacionadas com ambiente, turismo, segurança e comunidade.
+10. Facilitar a participação de empresas e organizações através de patrocínios e parcerias.
+11. Permitir contribuições financeiras para projetos e iniciativas aprovadas.
+12. Demonstrar de forma transparente o impacto das ações realizadas através da plataforma.
+
+
+5. PÚBLICO-ALVO
+
+A MoçAmbiente deverá atender diferentes grupos de utilizadores.
+
+5.1 Cidadãos
+
+Pessoas que desejam:
+
+- denunciar problemas ambientais;
+- participar em campanhas;
+- fazer voluntariado;
+- comunicar objetos perdidos ou encontrados;
+- consultar informações ambientais;
+- conhecer destinos turísticos;
+- acompanhar alertas e notícias.
+
+5.2 Turistas
+
+Pessoas que visitam ou pretendem visitar Moçambique e necessitam de:
+
+- informações sobre destinos;
+- recomendações de segurança;
+- informações ambientais;
+- regras de turismo responsável;
+- informações sobre atividades;
+- alertas relevantes;
+- serviços relacionados com objetos perdidos.
+
+5.3 Ativistas e voluntários
+
+Pessoas interessadas em participar regularmente em atividades ambientais e comunitárias.
+
+5.4 Organizações
+
+Organizações não governamentais, associações, projetos comunitários e instituições que desenvolvem iniciativas ambientais ou sociais.
+
+5.5 Empresas
+
+Empresas interessadas em responsabilidade social, sustentabilidade, patrocínio de campanhas e apoio a projetos comunitários.
+
+5.6 Operadores turísticos
+
+Hotéis, agências de turismo, guias, operadores de expedições e outros prestadores de serviços turísticos.
+
+5.7 Instituições e entidades públicas
+
+Entidades que possam contribuir com informações, campanhas, alertas, fiscalização, conservação e resposta a ocorrências.
+
+
+6. ESTRUTURA GERAL DA PLATAFORMA
+
+A plataforma deverá ser organizada nos seguintes módulos principais:
+
+- Página Inicial
+- Ambiente
+- Segurança
+- Achados e Perdidos
+- Turismo
+- Notícias
+- Participação
+- Doações
+- Patrocínios
+- Mapa Ambiental e Turístico
+- Área do Utilizador
+- Painel Administrativo
+
+
+7. PÁGINA INICIAL
+
+A página inicial será o principal ponto de entrada da plataforma.
+
+Deverá apresentar de forma clara a missão da MoçAmbiente e permitir que o visitante encontre rapidamente as principais funcionalidades.
+
+A página poderá apresentar:
+
+- mensagem principal da plataforma;
+- chamadas para participação;
+- campanhas ambientais em destaque;
+- alertas de segurança;
+- destinos turísticos em destaque;
+- notícias recentes;
+- problemas ambientais recentemente reportados;
+- mapa de atividades;
+- indicadores de impacto;
+- campanhas que precisam de voluntários;
+- opções para doar ou patrocinar.
+
+A página inicial deverá priorizar ações importantes, como:
+
+"Denunciar problema ambiental"
+
+"Participar numa campanha"
+
+"Explorar Moçambique"
+
+"Consultar alertas"
+
+"Procurar item perdido"
+
+
+8. MÓDULO AMBIENTE
+
+O módulo Ambiente será um dos principais componentes da plataforma.
+
+O seu objetivo será promover ações de proteção ambiental e permitir que os cidadãos contribuam para a identificação e resolução de problemas.
+
+8.1 Limpeza de praias e ruas
+
+A plataforma permitirá criar e divulgar campanhas de limpeza.
+
+Cada campanha poderá apresentar:
+
+- nome da campanha;
+- descrição;
+- local;
+- data;
+- horário;
+- organização responsável;
+- objetivo;
+- número de participantes;
+- número máximo de participantes;
+- materiais necessários;
+- informações de segurança;
+- fotografias;
+- localização no mapa;
+- formulário de inscrição.
+
+O utilizador poderá selecionar a opção "Participar" e confirmar a sua presença.
+
+
+9. DENÚNCIAS AMBIENTAIS
+
+A plataforma deverá permitir que qualquer utilizador registado comunique problemas ambientais.
+
+Exemplos:
+
+- acumulação de lixo;
+- poluição;
+- descarte irregular de resíduos;
+- degradação de praias;
+- destruição de áreas naturais;
+- desmatamento;
+- queimadas;
+- contaminação de água;
+- danos em infraestruturas ambientais;
+- outros problemas relevantes.
+
+O formulário poderá solicitar:
+
+- categoria;
+- descrição;
+- localização;
+- fotografia;
+- data da ocorrência;
+- informação complementar.
+
+Após o envio, a denúncia deverá receber um estado.
+
+Exemplo:
+
+Recebida → Em análise → Confirmada → Em resolução → Resolvida
+
+O utilizador deverá conseguir acompanhar o estado da sua denúncia.
+
+
+10. GESTÃO DE CAMPANHAS AMBIENTAIS
+
+Organizações autorizadas poderão criar campanhas.
+
+Cada campanha deverá possuir uma página própria contendo:
+
+- objetivo;
+- local;
+- data;
+- responsáveis;
+- participantes;
+- progresso;
+- fotografias;
+- resultados;
+- necessidades;
+- informações sobre apoio ou patrocínio.
+
+Depois da realização da campanha, os responsáveis poderão publicar os resultados.
+
+Exemplo:
+
+Campanha de limpeza da Praia X
+
+- Participantes: 85
+- Resíduos recolhidos: 420 kg
+- Área abrangida: 2 km
+- Data: determinada data
+- Organização responsável: determinada organização
+
+Essas informações alimentarão posteriormente os indicadores de impacto da plataforma.
+
+
+11. MÓDULO SEGURANÇA
+
+O módulo Segurança terá como objetivo disponibilizar informações importantes para visitantes, turistas, comunidades e operadores.
+
+Poderá incluir:
+
+- alertas;
+- condições perigosas;
+- riscos relacionados com praias;
+- afogamentos;
+- acidentes durante expedições;
+- presença de animais selvagens;
+- incêndios;
+- áreas temporariamente interditadas;
+- outros acontecimentos relevantes.
+
+As informações deverão ser tratadas com responsabilidade e, sempre que possível, baseadas em fontes verificáveis.
+
+A plataforma não deverá publicar conteúdo sensacionalista nem explorar tragédias.
+
+
+12. SISTEMA DE ALERTAS
+
+Os alertas poderão ser classificados por nível de importância.
+
+Exemplo:
+
+Informativo
+Atenção
+Alerta
+Emergência
+
+Cada alerta poderá conter:
+
+- título;
+- descrição;
+- local;
+- data;
+- hora;
+- validade;
+- fonte;
+- recomendações;
+- área afetada.
+
+Os alertas poderão aparecer no mapa e, futuramente, ser enviados através de notificações.
+
+
+13. NOTÍCIAS
+
+A seção de Notícias será responsável pela divulgação de informações relacionadas com os objetivos da plataforma.
+
+As notícias poderão ser organizadas em:
+
+- Ambiente;
+- Turismo;
+- Segurança;
+- Comunidade;
+- Conservação;
+- Eventos;
+- Campanhas.
+
+Cada notícia deverá possuir:
+
+- título;
+- imagem;
+- resumo;
+- conteúdo;
+- data de publicação;
+- autor ou organização;
+- categoria;
+- fontes, quando aplicável.
+
+A plataforma deverá possuir um processo editorial para reduzir a publicação de informações falsas ou não verificadas.
+
+
+14. ACHADOS E PERDIDOS
+
+O módulo Achados e Perdidos será destinado a pessoas que perderam ou encontraram objetos em praias, parques, reservas, hotéis, trilhos, expedições e outros locais turísticos.
+
+Terá três funcionalidades principais:
+
+14.1 Comunicar objeto perdido
+
+O utilizador poderá informar:
+
+- categoria do objeto;
+- local aproximado;
+- data;
+- descrição;
+- fotografia, quando apropriado.
+
+14.2 Comunicar objeto encontrado
+
+O utilizador poderá publicar informações sobre um objeto encontrado.
+
+14.3 Pesquisar objetos
+
+Os utilizadores poderão pesquisar objetos publicados através de:
+
+- categoria;
+- localização;
+- data;
+- palavras-chave.
+
+Por questões de privacidade e segurança, a plataforma não deverá permitir a publicação de informações pessoais desnecessárias.
+
+Também deverá existir um mecanismo de contacto interno para facilitar a comunicação entre as partes sem expor diretamente os dados pessoais.
+
+
+15. MÓDULO TURISMO
+
+O módulo Turismo será destinado à promoção das riquezas naturais, culturais e turísticas de Moçambique.
+
+Os destinos poderão ser organizados por categorias:
+
+- Praias;
+- Ilhas;
+- Parques;
+- Reservas;
+- Montanhas;
+- Cultura;
+- Património histórico;
+- Vida selvagem;
+- Mergulho;
+- Expedições;
+- Ecoturismo.
+
+Cada destino deverá possuir uma página própria.
+
+
+16. PÁGINA DE DESTINO TURÍSTICO
+
+A página de cada destino poderá apresentar:
+
+- nome;
+- localização;
+- descrição;
+- fotografias;
+- mapa;
+- como chegar;
+- atividades disponíveis;
+- época recomendada;
+- regras ambientais;
+- recomendações de segurança;
+- fauna e flora;
+- informações culturais;
+- serviços próximos;
+- alojamento, quando aplicável;
+- operadores turísticos;
+- contactos oficiais ou relevantes.
+
+A plataforma deverá privilegiar o conceito de turismo responsável.
+
+O visitante deverá ser incentivado a:
+
+- não deixar resíduos;
+- respeitar a natureza;
+- não perturbar animais;
+- respeitar comunidades locais;
+- seguir regras das áreas protegidas;
+- utilizar operadores autorizados quando necessário.
+
+
+17. PARTICIPAÇÃO COMUNITÁRIA
+
+A plataforma deverá permitir que qualquer pessoa possa contribuir de acordo com o seu nível de participação.
+
+As possibilidades poderão incluir:
+
+- participar em campanhas;
+- tornar-se voluntário;
+- tornar-se ativista;
+- organizar uma campanha;
+- apoiar uma iniciativa;
+- denunciar problemas;
+- partilhar informação;
+- tornar-se parceiro.
+
+
+18. PERFIL DO VOLUNTÁRIO
+
+Utilizadores registados poderão possuir um perfil de participação.
+
+O perfil poderá apresentar:
+
+- campanhas realizadas;
+- horas de voluntariado;
+- iniciativas apoiadas;
+- certificados, quando aplicável;
+- contribuições ambientais;
+- projetos em que participou.
+
+O objetivo não deverá ser criar uma competição entre utilizadores, mas sim reconhecer a participação e demonstrar o impacto coletivo.
+
+
+19. ORGANIZAÇÕES E PROJETOS
+
+Organizações verificadas poderão possuir páginas institucionais.
+
+A página poderá apresentar:
+
+- nome;
+- descrição;
+- área de atuação;
+- localização;
+- projetos;
+- campanhas;
+- contactos institucionais;
+- resultados;
+- necessidades de apoio.
+
+A plataforma deverá possuir um processo de verificação para organizações que pretendam publicar campanhas ou solicitar financiamento.
+
+
+20. DOAÇÕES
+
+A plataforma poderá disponibilizar uma área específica para doações.
+
+O utilizador poderá escolher:
+
+- projeto;
+- campanha;
+- área de intervenção;
+- contribuição geral.
+
+Sempre que possível, a plataforma deverá apresentar informações sobre a utilização dos fundos.
+
+Exemplo:
+
+Valor recebido
+Valor utilizado
+Projetos apoiados
+Saldo disponível
+
+A transparência deverá ser um princípio fundamental do sistema de doações.
+
+
+21. PATROCÍNIOS
+
+Empresas poderão apoiar diretamente campanhas ou projetos.
+
+A plataforma poderá apresentar oportunidades de patrocínio.
+
+Exemplo:
+
+"Patrocine uma campanha de limpeza de praia"
+
+"Patrocine um projeto de educação ambiental"
+
+"Patrocine equipamentos para voluntários"
+
+"Patrocine uma iniciativa comunitária"
+
+As empresas poderão posteriormente consultar indicadores relacionados com o impacto do seu apoio.
+
+
+22. ÁREA DE IMPACTO
+
+A plataforma deverá possuir uma área dedicada à demonstração dos resultados alcançados.
+
+Poderá apresentar indicadores como:
+
+- campanhas realizadas;
+- voluntários envolvidos;
+- locais limpos;
+- quantidade de resíduos recolhidos;
+- árvores plantadas;
+- projetos apoiados;
+- comunidades envolvidas;
+- denúncias resolvidas;
+- destinos turísticos apresentados;
+- empresas parceiras;
+- organizações participantes.
+
+Os indicadores deverão ser baseados em dados registados na plataforma e não em estimativas sem fundamentação.
+
+
+23. MAPA AMBIENTAL E TURÍSTICO
+
+O mapa deverá ser uma das principais funcionalidades tecnológicas da plataforma.
+
+O utilizador poderá visualizar diferentes informações geográficas.
+
+Exemplos:
+
+- destinos turísticos;
+- campanhas ambientais;
+- problemas ambientais;
+- alertas;
+- notícias associadas a locais;
+- achados e perdidos;
+- projetos ambientais;
+- organizações;
+- pontos de interesse.
+
+Os diferentes tipos de informação deverão utilizar marcadores distintos.
+
+O utilizador poderá selecionar filtros para visualizar apenas determinada categoria.
+
+
+24. SISTEMA DE UTILIZADORES
+
+A plataforma deverá possuir diferentes níveis de acesso.
+
+Visitante
+
+Pode consultar conteúdos públicos.
+
+Utilizador registado
+
+Pode participar em campanhas, enviar denúncias e utilizar funcionalidades de achados e perdidos.
+
+Voluntário
+
+Possui funcionalidades adicionais relacionadas com participação.
+
+Organização
+
+Pode gerir projetos e campanhas autorizadas.
+
+Empresa
+
+Pode apoiar projetos e gerir patrocínios.
+
+Editor
+
+Pode gerir conteúdos editoriais.
+
+Moderador
+
+Pode analisar denúncias, publicações e conteúdos submetidos pelos utilizadores.
+
+Administrador
+
+Possui controlo geral da plataforma.
+
+
+25. PAINEL ADMINISTRATIVO
+
+O sistema deverá possuir um painel administrativo centralizado.
+
+O administrador poderá gerir:
+
+- utilizadores;
+- organizações;
+- campanhas;
+- denúncias;
+- notícias;
+- destinos turísticos;
+- alertas;
+- achados e perdidos;
+- projetos;
+- doações;
+- patrocinadores;
+- conteúdos;
+- categorias;
+- mapas;
+- relatórios.
+
+O painel deverá também apresentar indicadores gerais da plataforma.
+
+
+26. SEGURANÇA E PRIVACIDADE
+
+A segurança deverá ser considerada desde a conceção da plataforma.
+
+O sistema deverá implementar:
+
+- autenticação segura;
+- controlo de permissões;
+- proteção de dados pessoais;
+- validação de formulários no servidor;
+- proteção contra abuso;
+- proteção contra spam;
+- registo de atividades administrativas;
+- mecanismos de recuperação de conta;
+- proteção de ficheiros enviados;
+- políticas de retenção de dados;
+- comunicação segura através de HTTPS.
+
+Dados pessoais não deverão ser expostos publicamente sem necessidade.
+
+Particular atenção deverá ser dada ao módulo de Achados e Perdidos, denúncias e sistema de mensagens.
+
+
+27. MODERAÇÃO
+
+Como a plataforma permitirá que utilizadores publiquem informações, deverá existir um sistema de moderação.
+
+Conteúdos poderão ser classificados como:
+
+- pendente;
+- aprovado;
+- rejeitado;
+- necessita de revisão;
+- removido.
+
+O sistema deverá permitir denunciar conteúdos inadequados.
+
+Também deverá existir uma política clara para:
+
+- informações falsas;
+- fraude;
+- conteúdo ofensivo;
+- exposição de dados pessoais;
+- publicidade abusiva;
+- denúncias falsas;
+- utilização indevida da plataforma.
+
+
+28. TECNOLOGIA E ARQUITETURA
+
+A plataforma deverá ser construída com uma arquitetura preparada para crescimento.
+
+Uma possível arquitetura inicial:
+
+Frontend:
+HTML, CSS e JavaScript, com possibilidade de evolução para uma framework no futuro.
+
+Backend:
+Python com Flask ou uma arquitetura equivalente baseada em API.
+
+Base de dados:
+PostgreSQL.
+
+Armazenamento:
+Sistema de armazenamento próprio para fotografias e documentos, separado da base de dados.
+
+Mapas:
+OpenStreetMap em conjunto com uma biblioteca de mapas web, como Leaflet.
+
+Autenticação:
+Sistema de autenticação implementado no backend.
+
+A arquitetura deverá separar claramente frontend, backend, base de dados, armazenamento e serviços externos.
+
+
+29. APLICAÇÃO PROGRESSIVA
+
+A plataforma deverá ser inicialmente desenvolvida como website responsivo.
+
+Posteriormente poderá evoluir para uma Progressive Web App, permitindo uma experiência semelhante à de uma aplicação móvel.
+
+Numa fase posterior poderá ser desenvolvida uma aplicação móvel nativa ou multiplataforma.
+
+
+30. ROADMAP DE DESENVOLVIMENTO
+
+Fase 1 — Planeamento
+
+- definição da identidade;
+- arquitetura;
+- desenho das páginas;
+- definição do banco de dados;
+- definição das regras;
+- protótipos.
+
+Fase 2 — MVP
+
+O primeiro produto funcional deverá concentrar-se em:
+
+- página inicial;
+- Ambiente;
+- campanhas;
+- denúncias;
+- Achados e Perdidos;
+- Turismo;
+- Notícias;
+- Segurança;
+- autenticação;
+- painel administrativo.
+
+Fase 3 — Participação
+
+Adicionar:
+
+- voluntariado;
+- perfis;
+- organizações;
+- campanhas avançadas;
+- sistema de participação.
+
+Fase 4 — Mapa
+
+Adicionar:
+
+- mapa interativo;
+- filtros;
+- localização de campanhas;
+- destinos;
+- denúncias;
+- alertas.
+
+Fase 5 — Apoio financeiro
+
+Adicionar:
+
+- doações;
+- patrocínios;
+- projetos financiados;
+- relatórios financeiros;
+- transparência de impacto.
+
+Fase 6 — Expansão
+
+Adicionar:
+
+- notificações;
+- PWA;
+- aplicação móvel;
+- API pública controlada;
+- integração com organizações;
+- sistemas avançados de análise de dados.
+
+
+31. PRINCÍPIOS DA PLATAFORMA
+
+A MoçAmbiente deverá ser orientada pelos seguintes princípios:
+
+Transparência
+
+As informações sobre projetos, campanhas e utilização de recursos deverão ser apresentadas de forma clara.
+
+Responsabilidade
+
+Conteúdos relacionados com acidentes, mortes e segurança deverão ser publicados com respeito e responsabilidade.
+
+Privacidade
+
+Os dados pessoais dos utilizadores deverão ser protegidos.
+
+Participação
+
+A plataforma deverá incentivar a participação ativa da comunidade.
+
+Sustentabilidade
+
+As funcionalidades deverão contribuir para práticas ambientalmente responsáveis.
+
+Inclusão
+
+A plataforma deverá ser acessível e simples de utilizar por diferentes públicos.
+
+Informação confiável
+
+Conteúdos sensíveis deverão ser verificados antes da publicação sempre que possível.
+
+
+32. DIFERENCIAL DA MOÇAMBIENTE
+
+O principal diferencial da plataforma será a integração de funcionalidades que normalmente estão separadas.
+
+A mesma plataforma poderá permitir que uma pessoa:
+
+- descubra um destino turístico;
+- consulte os riscos daquele local;
+- veja alertas existentes;
+- conheça as regras ambientais;
+- encontre campanhas próximas;
+- participe numa ação de limpeza;
+- denuncie um problema;
+- procure um objeto perdido;
+- acompanhe notícias;
+- apoie um projeto;
+- torne-se voluntária.
+
+Dessa forma, ambiente, turismo, segurança e participação comunitária deixam de funcionar como áreas isoladas e passam a fazer parte de um único ecossistema digital.
+
+
+33. MODELO DE CRESCIMENTO
+
+A MoçAmbiente poderá começar como uma plataforma digital focada em informação e participação comunitária.
+
+Com o crescimento da base de utilizadores, poderá evoluir para uma infraestrutura digital que conecta:
+
+Cidadãos
+Comunidades
+Organizações
+Empresas
+Operadores turísticos
+Instituições
+Projetos ambientais
+Voluntários
+Patrocinadores
+
+O crescimento deverá ser gradual, garantindo que cada nova funcionalidade seja acompanhada por mecanismos adequados de segurança, moderação, privacidade e gestão.
+
+
+34. RESULTADO ESPERADO
+
+A longo prazo, a MoçAmbiente deverá tornar-se uma plataforma de referência para pessoas que desejam conhecer, proteger e valorizar o património ambiental e turístico de Moçambique.
+
+O projeto deverá criar um ciclo de participação:
+
+IDENTIFICAR → INFORMAR → PARTICIPAR → AGIR → MEDIR → DIVULGAR → MELHORAR
+
+Um problema ambiental poderá ser identificado por um cidadão, registado na plataforma, analisado por uma organização, transformado numa campanha, apoiado por voluntários ou patrocinadores e posteriormente apresentado como resultado de impacto.
+
+Da mesma forma, um destino turístico poderá ser apresentado não apenas como um local para visitar, mas como um espaço que deve ser conhecido, respeitado, protegido e valorizado.
+
+
+35. CONCLUSÃO
+
+A MoçAmbiente pretende utilizar a tecnologia como instrumento de mobilização social e proteção ambiental.
+
+A plataforma não deverá limitar-se à publicação de notícias ou informações turísticas. O seu verdadeiro valor estará na capacidade de transformar informação em participação e participação em ações concretas.
+
+Ao reunir ambiente, turismo, segurança, achados e perdidos, notícias, voluntariado, denúncias, campanhas, doações e patrocínios num único ecossistema, a plataforma poderá criar uma ligação permanente entre as pessoas e os espaços naturais, turísticos e comunitários de Moçambique.
+
+O projeto deverá ser desenvolvido de forma progressiva, começando por um MVP funcional, seguro e simples de utilizar, e evoluindo posteriormente para uma plataforma nacional de participação ambiental e turismo responsável.
+
+
+MOÇAMBIENTE
+
+Natureza • Turismo • Segurança • Comunidade
+
+Juntos por um Moçambique mais sustentável.
